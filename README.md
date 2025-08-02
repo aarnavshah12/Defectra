@@ -15,14 +15,6 @@ A professional GUI application for automated PCB (Printed Circuit Board) defect 
 - 📱 **Responsive Layout**: Automatically adapts to different screen sizes
 - 🔄 **Real-time Updates**: Live workflow updates without caching delays
 
-## Screenshots
-
-### Main Interface
-![Main Interface](screenshot-main.png)
-
-### Detection Results
-![Detection Results](screenshot-results.png)
-
 ## Installation
 
 ### Prerequisites
